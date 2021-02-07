@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CONTOH HALAMAN WEB SEDERHANA HTML</title>
+</head>
+<style>
+body {
+  background-color: #000000 Black;
+  color: blue;
+}
+
+h1 {
+  Color:#B8860B Darkgoldenrod
+}
+</style>
+</head>
+<body>
+<h1 style:"text-align:center;"WEB SEDERHANA HTML"</h1>
+</body>
+</html>
